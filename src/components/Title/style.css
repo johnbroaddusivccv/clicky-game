@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Cinzel&display=swap");
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Cinzel", Arial, Helvetica, sans-serif;
+
+  color: rgb(255, 255, 255);
+  margin-bottom: 25px;
+  background: url("https://catwithmonocle.com/wp-content/uploads/2019/01/kh3-pattern-02-1920x1080.jpg");
+}
